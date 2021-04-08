@@ -1,6 +1,6 @@
 # Instagram-Automation-Bot
-This project is a good start for beginners and a refresher for professionals who have dabbled in python scripts/selenium/web crawlers before. The experience of implementing this basic automation will be helpful in learning web crawlers and more, so feel free to innovate and explore!
-
+This is a instagram bots built with Selenium and python.
+This is the first project of mine that looks to add some values in others task and may help them for scraping instagram.
 
 ## Resources : 
 Check out the documentation of [selenium](https://selenium-python.readthedocs.io/) in [Python](https://docs.python.org/3/) .
