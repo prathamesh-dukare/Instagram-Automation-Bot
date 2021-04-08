@@ -3,4 +3,5 @@ This project is a good start for beginners and a refresher for professionals who
 
 
 ## Resources : 
-Check out the documentation of [selenium](https://selenium-python.readthedocs.io/)
+Check out the documentation of [selenium](https://selenium-python.readthedocs.io/) in [Python](https://docs.python.org/3/) .
+Also , See the project byte on [Crio](https://docs.python.org/3/) .
