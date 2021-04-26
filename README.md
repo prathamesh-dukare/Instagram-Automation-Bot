@@ -10,4 +10,3 @@ See Demo Video on Youtube [Here](https://youtu.be/gdF5wKJrlYo)
 
 ## Resources : 
 Check out the documentation of [selenium](https://selenium-python.readthedocs.io/) in [Python](https://docs.python.org/3/) .
-Also , See the project byte on [Crio](https://crio.do/projects/) .
